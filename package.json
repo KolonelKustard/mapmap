@@ -1,0 +1,23 @@
+{
+  "name": "mapmap",
+  "version": "1.0.0",
+  "description": "Map Everything",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KolonelKustard/mapmap.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/KolonelKustard/mapmap/issues"
+  },
+  "homepage": "https://github.com/KolonelKustard/mapmap#readme",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  }
+}
